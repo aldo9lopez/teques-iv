@@ -3,3 +3,7 @@
   max-width: 600px; /* Opcional: Define un ancho máximo */
   height: auto; /* Mantiene la proporción de la imagen */
 }
+
+a:hover {
+  background-color: #f5f5f5; /* Gris claro */
+}
