@@ -1,0 +1,5 @@
+.home-banner-image {
+  width: 50%; /* Ajusta el valor según tus necesidades */
+  max-width: 600px; /* Opcional: Define un ancho máximo */
+  height: auto; /* Mantiene la proporción de la imagen */
+}
