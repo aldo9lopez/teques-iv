@@ -1,36 +1,36 @@
 ---
-title: "Teques IV: Una mente brillante, un chapuzón más"
+title: "Teques IV: Una mente brillante, una experiencia más"
 date: 2025-03-19
 ---
-¡Atención, **Mensa Youth México**! 🎉 Prepárense para **Teques IV**, la cuarta edición de nuestro evento anual que combina mentes brillantes y diversión al estilo *"¿cuántas capacidades podemos demostrar mientras flotamos en la alberca?"*.
+¡Atención, **Mensa Youth México**! 🎉 Prepárense para **Teques IV**, la cuarta edición de nuestro evento anual que combina mentes brillantes y diversión.
 
 ---
 
 ## 🗓️ ¿Cuándo?
 **1 al 4 de agosto de 2025**  
-4 días perfectos para reflexionar, aprender, y, ¿por qué no?, debatir sobre cuántos inflables caben en una sola alberca.
+4 días perfectos para realajarse, convivir y ¿por qué no?, reflexionar sobre la vida adulta.
 
 ---
 
 ## 📍 ¿Dónde?  
-En un **Airbnb privado con alberca y muchas amenidades** en el Estado de México. Porque no solo pensamos fuera de la caja, ¡también fuera del agua!
+En una **casa de campo privada con alberca y muchas amenidades** ubicada en Jilotepec de Molina Enríquez, Estado de México.
 
 ---
 
 ## 💡 ¿Por qué asistir?
-- **Charlas y juegos:** Disfruta de actividades que pondrán a prueba tu ingenio (y, tal vez, tus habilidades para el karaoke).  
-- **Conexiones:** Relaciónate con otros jóvenes de altas capacidades que entienden tus referencias de memes inteligentes.  
+- **Charlas, actvidades y juegos de mesa:** Disfruta de actividades que pondrán a prueba tu ingenio (y, tal vez, tus habilidades para el karaoke).  
+- **Conexiones:** Relaciónate con otros jóvenes de altas capacidades que entienden tus referencias.  
 - **Diversión:** Alberca, comida deliciosa y un espacio diseñado para el mejor ambiente.
 
 ---
 
-### 🎈 ¿Qué traer?  
-- Tu bañador (y probablemente bloqueador solar).  
-- Ganas de disfrutar en grande.  
-- Un cerebro listo para ser parte de un evento inolvidable.
+### 🎈 ¿Qué traer? 
+- Ropa para 4 días. 
+- Traje de baño. 
+- Bloqueador Solar.
+- Toalla. 
+- Ganas de disfrutar en grande.
 
 ---
 
-¡No te pierdas **Teques IV**! 🌟 Garantizamos risas, anécdotas y, posiblemente, algún debate filosófico en la orilla de la alberca. Porque ser genios también incluye saber cuándo desconectarse y disfrutar.
-
-*P.D.: Si puedes calcular la densidad del agua con solo sumergir un pie, definitivamente perteneces aquí.*
+¡No te pierdas **Teques IV**! 🌟 Garantizamos risas, anécdotas y, posiblemente, algún debate filosófico en la orilla de la alberca. Porque ser superdotados también incluye saber cuándo desconectarse y disfrutar.

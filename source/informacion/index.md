@@ -55,6 +55,15 @@ Durante el evento se realizarán diversas actividades, tales como:
 
 ---
 
+## 🎈 ¿Qué traer? 
+
+- Ropa para 4 días. 
+- Traje de baño. 
+- Bloqueador Solar.
+- Toalla. 
+
+---
+
 ## 💳 Información del Pago
 
 El costo total del evento es de **$1,850 MXN**, incluye:
@@ -64,4 +73,4 @@ El costo total del evento es de **$1,850 MXN**, incluye:
 
 Para apartar tu lugar, realiza un depósito inicial de **$500 MXN**.
 
-[🔗 Realizar el pago aquí](/reservar/) <!-- Reemplaza '#' con el enlace de pago real -->
+[🔗 Realizar el pago aquí](/teques-iv/reservar/)
