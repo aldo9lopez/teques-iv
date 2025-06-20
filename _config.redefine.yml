@@ -10,9 +10,9 @@
 # Docs: https://redefine-docs.ohevan.com/basic/info
 info:
   # Site title
-  title: Teques IV | MYM
+  title: Weekend 2025 Teques IV | MYM
   # Site subtitle
-  subtitle: Teques IV | MYM
+  subtitle: Weekend 2025 Teques IV | MYM
   # Author name
   author: Mensa Youth México
   # Site URL
@@ -122,19 +122,17 @@ home_banner:
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
   title:
-    '<img src="/teques-iv/images/teques-iv-logo.png" class="home-banner-image">
-    <div style="text-align: center;">
-    <br>
-    <a href="/teques-iv/informacion/" class="button-main">
-    Más Información
-    </a>
-    <a href="/teques-iv/reservar/" class="button-main">
-    Reservar Ahora
-    </a>
-    </div>'
+    '<section class="home-hero">
+    <h1 class="home-banner-title">Weekend 2025</h1>
+    <img src="/teques-iv/images/teques-iv-logo.png" class="home-banner-image">
+    <div class="home-banner-buttons">
+    <a href="/teques-iv/informacion/" class="button-main">Más Información</a>
+    <a href="/teques-iv/reservar/" class="button-main">Reservar Ahora</a>
+    </div>
+    </section>'
   # Home banner subtitle
   subtitle:
-    text: ["¡Vive el mejor evento para Mensans Jóvenes!"] # Añade un subtítulo motivador
+    text: ["¡Vive el mejor evento para Mensans con un espiritu joven!"]
     typing_speed: 100
     backing_speed: 80
     starting_delay: 500
@@ -361,6 +359,7 @@ inject:
   enable: true
   # Inject custom head html code
   head:
+    - <link href="https://fonts.googleapis.com/css2?family=Chewy&display=swap" rel="stylesheet">
     - <link rel="stylesheet" href="/teques-iv/css/custom.css">
   # Inject custom footer html code
   footer:

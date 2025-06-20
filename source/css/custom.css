@@ -38,6 +38,28 @@
   color: black;
 }
 
+.home-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 20px;
+  min-height: 80vh;
+  text-align: center;
+}
+
+.home-banner-title {
+  font-family: 'Chewy', cursive;
+  font-size: 64px;
+  color: white;
+  -webkit-text-stroke: 3px #368f8f;
+  margin-bottom: 30px;
+}
+
+.home-banner-buttons {
+  margin-top: 20px;
+}
+
 @media (max-width: 768px) {
   .home-banner-image {
     width: 80% !important; 

@@ -1,5 +1,5 @@
 ---
-title: Teques IV by Mensa Youth México
+title: Weekend 2025 by Mensa Youth México
 date: 2025-08-01
 ---
 
