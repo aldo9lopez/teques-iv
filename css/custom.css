@@ -1,0 +1,68 @@
+.home-banner-image {
+  width: 60%; 
+  max-width: 600px;
+  height: auto;
+}
+
+.button-main {
+  display: inline-block;
+  margin: 10px; 
+  padding: 10px 20px; 
+  background-color: #0000003a; 
+  color: #ffffff; 
+  text-decoration: none; 
+  border-radius: 10px; 
+  font-size: 1.2rem; 
+  border: 2px solid #ececec; 
+  transition: background-color 0.3s ease;
+}
+
+.footer-logo {
+  display: block;
+  margin: 10px auto 0px auto;
+  text-align: center; 
+  margin-top: 20px;
+  width: fit-content;
+}
+
+.footer-logo img {
+  height: 50px; 
+  width: auto;
+  display: inline-block;
+  margin: 0 auto; 
+  filter: brightness(0) invert(1);
+}
+
+.button-main:hover {
+  background-color: #ffffffa9; 
+  color: black;
+}
+
+.home-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 20px;
+  min-height: 80vh;
+  text-align: center;
+}
+
+.home-banner-title {
+  font-family: 'Chewy', cursive;
+  font-size: 64px;
+  color: white;
+  -webkit-text-stroke: 3px #368f8f;
+  margin-bottom: 30px;
+}
+
+.home-banner-buttons {
+  margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+  .home-banner-image {
+    width: 80% !important; 
+    max-width: 80%; 
+  }
+}
